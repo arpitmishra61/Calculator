@@ -1,0 +1,111 @@
+body{
+	font-family:Comic Sans MS;
+	background-image: url('backgroundB.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+.button{
+	border-radius: 5px;
+	color:white;
+	background-color:#2F2B2B;
+	filter: opacity(80%);
+     padding: 20px;
+     border:0;
+     margin-bottom: 2px;
+     width:50px;
+	 font-weight: bold;
+	 cursor: pointer;
+
+
+}
+
+.input{border:0;
+	background: #252020;
+	filter: opacity(80%);
+	width: 96%;
+	margin-bottom: 10px;
+	font-size: 20px;
+	height:60px;
+	padding-right: 10px;
+	text-align:right;
+	font-weight:bold;
+	
+	color:white;
+	
+}
+
+
+
+
+
+
+#sd{width: 96%;
+	height:30px;
+	padding-right: 10px;
+	margin-bottom: 2px;
+	
+	font-size: 20px;
+	text-align:left;
+	padding-left: 10px;
+
+}
+
+.b{background-color:#53F43E;
+	width:105px;
+	font-size: 30px;
+	padding:0;
+	text-align: center;
+	padding-bottom:15px;
+
+
+
+}
+
+.mainc{margin-left: 800px;
+	
+	width: 25%;
+	filter: opacity(100%);
+	
+	padding-left: 8px;
+	padding-top: 4px;
+
+	}
+	
+h1{position: absolute;
+	background-color: transparent;
+	filter:opacity(60%);
+	
+	width:30%;
+	left:100px;
+	padding: 29px;
+	background-color: white;
+}
+
+	
+
+.main{margin-top:100px;
+
+}
+
+.s{
+	background-color: #FF7D44;
+}
+
+.s1{
+background-color: red;
+}
+
+.button:hover{
+	filter: opacity(93%)
+
+}
+
+.symbol{
+	text-align: 0;
+	width:300%;
+	height:50%;
+	margin-left: -10px;
+}
